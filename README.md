@@ -9,9 +9,7 @@ It displays sample weather information with a clean, responsive layout — perfe
 
 - 📱 Responsive Design (mobile-friendly)
 - 🎨 Clean UI (simple and aesthetic)
-- 💻 Pure HTML and CSS (no JS or APIs)
-- 🌤️ Static demo weather display
-
+- 💻 Pure HTML and CSS & APIs
 ---
 
 ## 🛠️ Technologies Used
